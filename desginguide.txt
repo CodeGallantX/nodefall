@@ -1,0 +1,12 @@
+Colors:
+Light-Orange: #ec5c1f
+Red-Orange: #ec551f
+Light-navyblue: #040d2e
+Dark-navyblue: #070a27
+White: #fefffe
+
+
+
+Fonts:
+Header-
+Body-
