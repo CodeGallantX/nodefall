@@ -324,7 +324,7 @@ nav ul li a:hover {
 
 /* FEATURED GAMES  */
 #games {
-    background-image: url('./images/dragongame.webp');
+    background-image: url('./dragongame.webp');
     background-size: cover;
     background-repeat: no-repeat;
     padding: 4rem 1.5in 15rem;
