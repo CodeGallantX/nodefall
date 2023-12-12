@@ -370,7 +370,7 @@ nav ul li a:hover {
     display: grid;
     gap: 2em 3.5em;
     flex-wrap: nowrap;
-    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
 }
 
 .game-box {
