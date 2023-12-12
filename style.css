@@ -371,7 +371,7 @@ nav ul li a:hover {
     gap: 2em 3.5em;
     flex-wrap: nowrap;
     grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-    gap: 30px;
+    gap: 40px 30px;
 }
 
 .game-box {
