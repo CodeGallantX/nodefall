@@ -451,6 +451,16 @@ nav ul li a:hover {
     opacity: 0
 }
 
+.price-tag {
+    position: absolute;
+    font-family: Manrope, Helvetica;
+    background: var(--Rorange);
+    padding: 3px 0.3em;
+    border-radius: 10px;
+    top: 20px;
+    right: 20px;
+}
+
 
 /* LOCATIONS */
 #locations {
