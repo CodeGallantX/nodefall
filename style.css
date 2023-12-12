@@ -25,11 +25,6 @@ body {
     padding: 0;
 }
 
-
-.logo {
-    margin-right: 100px;
-}
-
 .logo img {
     width: 300px;
 }
@@ -40,7 +35,7 @@ header {
     align-items: center;
     position: fixed;
     gap: 20px;
-    padding: 20px 2rem;
+    padding: 20px 1rem;
     background: var(--Davyblue);
     margin-bottom: 40%;
     max-width: 13in;
